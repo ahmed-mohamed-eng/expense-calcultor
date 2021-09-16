@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.hero-image {
+  background-image: url("../public/Images/Background.svg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
