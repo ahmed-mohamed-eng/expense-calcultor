@@ -17,7 +17,7 @@ export default function AnimatedImg() {
   const { bottom } = useSpring({
     from: {
       bottom: 0,
-    },
+    }, 
     to: {
       bottom: 100,
     },
